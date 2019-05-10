@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://Mattar:Mattar@mern-c6y71.mongodb.net/test?retryWrites=true",
-  "jwtToken": "mysecerttoken"
+  "jwtSecret": "mysecerttoken"
 }
